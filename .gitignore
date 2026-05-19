@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+backend/venv/
+backend/*.db
+backend/*.db-*
+backend/data/*.db
+backend/data/*.db-*
+
+frontend/node_modules/
+frontend/dist/
+
+.env
+backend/.env
+config.h
+firmware/smart_flood_sentinel/config.h
